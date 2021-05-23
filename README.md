@@ -2,4 +2,4 @@
 
 ## introduction
 
-HCN stands for ...
+HCN stands for Hierarchical Context-aware Network
